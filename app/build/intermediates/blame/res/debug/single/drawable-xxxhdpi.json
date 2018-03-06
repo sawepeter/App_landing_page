@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Download\\Android projects\\Kim\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\img3.png",
+        "source": "F:\\Download\\Android projects\\Kim\\app\\src\\main\\res\\drawable-xxxhdpi\\img3.png"
+    },
+    {
+        "merged": "F:\\Download\\Android projects\\Kim\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\main_background.png",
+        "source": "F:\\Download\\Android projects\\Kim\\app\\src\\main\\res\\drawable-xxxhdpi\\main_background.png"
+    },
+    {
+        "merged": "F:\\Download\\Android projects\\Kim\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\img1.png",
+        "source": "F:\\Download\\Android projects\\Kim\\app\\src\\main\\res\\drawable-xxxhdpi\\img1.png"
+    },
+    {
+        "merged": "F:\\Download\\Android projects\\Kim\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\csk.png",
+        "source": "F:\\Download\\Android projects\\Kim\\app\\src\\main\\res\\drawable-xxxhdpi\\csk.png"
+    },
+    {
+        "merged": "F:\\Download\\Android projects\\Kim\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\img2.png",
+        "source": "F:\\Download\\Android projects\\Kim\\app\\src\\main\\res\\drawable-xxxhdpi\\img2.png"
+    }
+]
